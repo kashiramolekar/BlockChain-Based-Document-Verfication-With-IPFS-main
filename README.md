@@ -1,4 +1,6 @@
-![WhatsApp Image 2024-06-21 at 01 47 37_73b4807c](https://github.com/kashiramolekar/BlockChain-Based-Document-Verfication-With-IPFS-main/assets/159832841/d49ff558-8057-499b-8b24-a2e8d15e63db)# BlockChain-Based Document Verification with IPFS
+![WhatsApp Image 2024-06-21 at 01 47 37_73b4807c](https://github.com/kashiramolekar/BlockChain-Based-Document-Verfication-With-IPFS-main/assets/159832841/d49ff558-8057-499b-8b24-a2e8d15e63db)
+
+## BlockChain-Based Document Verification with IPFS
 
 This project aims to create a secure and decentralized system for document verification using Blockchain and InterPlanetary File System (IPFS) technologies. The system stores the hash of the documents in the Blockchain network and the documents themselves in the IPFS network. This ensures that the documents cannot be tampered with or altered, and they can be easily retrieved and verified by authorized parties.
 
@@ -47,10 +49,6 @@ npm install``
 - Solidity and Web3.js documentation
 - IPFS documentation
 - Truffle documentation
-
-
-![WhatsApp Image 2024-06-21 at 01 47 37_73b4807c](https://github.com/kashiramolekar/BlockChain-Based-Document-Verfication-With-IPFS-main/assets/159832841/d6e2d3a5-34ca-4a73-95b4-4a03a3cb2768)
-
 
 
 
